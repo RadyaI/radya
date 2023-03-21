@@ -8,6 +8,6 @@
 </head>
 <body>
     <p>Tes doang mas</p>
-    <a href="index.php">Nih balik lagi</a>
+    <a href="index.html">Nih balik lagi</a>
 </body>
 </html>
